@@ -12,5 +12,5 @@
 <h1> Technologies That I am learning </h1>
 <p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/Power Query-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="Power Query">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power Bi">
 </p>
